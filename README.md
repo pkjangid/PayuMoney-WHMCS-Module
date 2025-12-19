@@ -14,4 +14,4 @@ PayuMoney WHMCS for integration of Payment gateway in WHMCS
 
 6. Input the Success URL &  Failure URL are same 
 
-<whmcs client-area url>/modules/gateways/callback/payumoney.php
+<whmcs client-area url/modules/gateways/callback/payumoney.php
